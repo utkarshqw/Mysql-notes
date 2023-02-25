@@ -93,6 +93,11 @@
 ### If we try to give null value then 
 ![image](https://user-images.githubusercontent.com/101376775/221364637-78c716be-c387-4456-aa15-994202ad64c1.png)
 
+### We can also set the default value fields
+![image](https://user-images.githubusercontent.com/101376775/221365103-40bd3029-2c32-41c3-bf6f-91f2a7790d2f.png)
+### Here i have used NOT NULL because we may set NULL manually. 
+![image](https://user-images.githubusercontent.com/101376775/221365975-c9b93440-f9e3-415b-9154-a8fa6d84d492.png)
+
 
 
 
