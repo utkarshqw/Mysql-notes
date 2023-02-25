@@ -64,6 +64,14 @@
 
 ![image](https://user-images.githubusercontent.com/101376775/221355730-dddda774-51e9-47b2-a6fa-0caa56ac9a2e.png)
 
+## Inserting Data into table and viewing it
+
+![image](https://user-images.githubusercontent.com/101376775/221361523-128c0919-16e8-40f5-aee2-071a39fb2fc9.png)
+
+### Exercise to insert single ,multiple data and view them
+
+![image](https://user-images.githubusercontent.com/101376775/221362164-6a24cc06-db15-4132-9dfc-536137d3145d.png)
+
 
 
 
