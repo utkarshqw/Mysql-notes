@@ -98,7 +98,7 @@
 ### Here i have used NOT NULL because we may set NULL manually. 
 ![image](https://user-images.githubusercontent.com/101376775/221365975-c9b93440-f9e3-415b-9154-a8fa6d84d492.png)
 
-
+2:34:10
 
 
 
