@@ -58,7 +58,13 @@
   age INT
  )
  
- ![image](https://user-images.githubusercontent.com/101376775/221355188-3601a52a-02f3-411f-a978-19a643cf6bf6.png)
+![image](https://user-images.githubusercontent.com/101376775/221355397-d06a4631-2d72-4008-884a-a771c75f4f2a.png)
+
+## Create a pastries table exercise
+
+![image](https://user-images.githubusercontent.com/101376775/221355730-dddda774-51e9-47b2-a6fa-0caa56ac9a2e.png)
+
+
 
 
 
