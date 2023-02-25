@@ -79,10 +79,12 @@
 ## Null
 ![image](https://user-images.githubusercontent.com/101376775/221363140-01bad219-7b99-4981-abb4-baa24342447b.png)
 
-Null value is allowed here
+**Null value is allowed here**
 
 ![image](https://user-images.githubusercontent.com/101376775/221363436-35e63dda-167b-4ee6-b3c1-923b121ba0d6.png)
 
+<!-- **We can also leave all the fields empty if allowed**  -->
+![image](https://user-images.githubusercontent.com/101376775/221363547-63368181-9825-4dd9-be68-3cec0c4a3119.png)
 
 
 
