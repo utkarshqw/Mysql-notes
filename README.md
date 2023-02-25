@@ -72,6 +72,17 @@
 
 ![image](https://user-images.githubusercontent.com/101376775/221362164-6a24cc06-db15-4132-9dfc-536137d3145d.png)
 
+### Show warnings
+
+![image](https://user-images.githubusercontent.com/101376775/221363059-b2cd0ad3-1b6a-406a-b072-5feae0dad2f2.png)
+
+## Null
+![image](https://user-images.githubusercontent.com/101376775/221363140-01bad219-7b99-4981-abb4-baa24342447b.png)
+
+Null value is allowed here
+
+![image](https://user-images.githubusercontent.com/101376775/221363436-35e63dda-167b-4ee6-b3c1-923b121ba0d6.png)
+
 
 
 
