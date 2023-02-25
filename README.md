@@ -90,6 +90,9 @@
 ![image](https://user-images.githubusercontent.com/101376775/221364509-8279d57d-6f7f-44b5-b9fe-b422300b65f1.png)
 
 
+### If we try to give null value then 
+![image](https://user-images.githubusercontent.com/101376775/221364637-78c716be-c387-4456-aa15-994202ad64c1.png)
+
 
 
 
