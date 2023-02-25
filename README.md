@@ -83,8 +83,13 @@
 
 ![image](https://user-images.githubusercontent.com/101376775/221363436-35e63dda-167b-4ee6-b3c1-923b121ba0d6.png)
 
-<!-- **We can also leave all the fields empty if allowed**  -->
+### We can also leave all the fields empty if allowed 
 ![image](https://user-images.githubusercontent.com/101376775/221363547-63368181-9825-4dd9-be68-3cec0c4a3119.png)
+
+### If we don't want to allow null values 
+![image](https://user-images.githubusercontent.com/101376775/221364509-8279d57d-6f7f-44b5-b9fe-b422300b65f1.png)
+
+
 
 
 
