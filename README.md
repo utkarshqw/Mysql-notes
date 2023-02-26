@@ -98,7 +98,15 @@
 ### Here i have used NOT NULL because we may set NULL manually. 
 ![image](https://user-images.githubusercontent.com/101376775/221365975-c9b93440-f9e3-415b-9154-a8fa6d84d492.png)
 
-2:34:10
+### What is this
+![image](https://user-images.githubusercontent.com/101376775/221403677-ebd289c9-2caf-4775-8747-bd7cceabbf68.png)
+
+### as can be seen data can be identical
+![image](https://user-images.githubusercontent.com/101376775/221403906-9cd02195-97cc-42c5-8743-9477c1536489.png)
+
+what we can do is provide a **Unique indentifier** to differenceiate between them 
+for this we can take use of **Primary key**  and they must be **unique** 
+
 
 
 
