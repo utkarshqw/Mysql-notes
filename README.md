@@ -123,7 +123,12 @@ because of that we have PRI written in key column.
 # CRUD BASICS
 ---
 
+![image](https://user-images.githubusercontent.com/101376775/221428894-8bdec125-1eac-46e5-8a6c-9eb4036d395e.png)
 
+### WHERE and ALIAS
+![image](https://user-images.githubusercontent.com/101376775/221428940-bacde77f-8183-416c-8790-c9d0e10e21ca.png)
+
+### UPDATE 3:14:32
 
 
 
