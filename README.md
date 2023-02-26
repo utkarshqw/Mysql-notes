@@ -108,6 +108,21 @@ what we can do is provide a **Unique indentifier** to differenceiate between the
 for this we can take use of **Primary key**  and they must be **unique** 
 
 
+### we have create a table with cat_id as primary key
+![image](https://user-images.githubusercontent.com/101376775/221404657-e3488f17-10f2-490b-87fe-498e4455fca3.png)
+because of that we have PRI written in key column. 
+
+### write all the key normall and assign the PRIMARY KEY(key)
+## AUTO_INCREMENT can also be used. 
+![image](https://user-images.githubusercontent.com/101376775/221405344-bee00a75-89de-4383-88a2-e07b8851b327.png)
+![image](https://user-images.githubusercontent.com/101376775/221405400-621910df-5f8c-459b-8345-2d28a12fb077.png)
+
+##Exercise PRIMARY KEY , AUTO_INCREMENT 
+![image](https://user-images.githubusercontent.com/101376775/221407717-1fe1f57c-1314-4e5f-ae00-70d834d19767.png)
+
+# CRUD BASICS
+---
+
 
 
 
