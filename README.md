@@ -130,7 +130,9 @@ because of that we have PRI written in key column.
 
 ### UPDATE 3:14:32
 ![image](https://user-images.githubusercontent.com/101376775/222038150-fc7f6842-1e42-4d4a-905d-73175633b349.png)
-### DELETE
+### DELETE Exercise;
+![image](https://user-images.githubusercontent.com/101376775/222040292-17094f6f-80fe-4076-9b32-73982aea093b.png)
+
 
 
 
