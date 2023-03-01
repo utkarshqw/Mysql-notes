@@ -133,6 +133,15 @@ because of that we have PRI written in key column.
 ### DELETE Exercise;
 ![image](https://user-images.githubusercontent.com/101376775/222040292-17094f6f-80fe-4076-9b32-73982aea093b.png)
 
+### REVISION EXERCISE 
+
+![image](https://user-images.githubusercontent.com/101376775/222051990-75dd514c-20da-4797-bc7f-024f21bb99ba.png)
+![image](https://user-images.githubusercontent.com/101376775/222052266-338c4c78-cba8-4094-a902-bb5144022898.png)
+![image](https://user-images.githubusercontent.com/101376775/222052331-c3d72b12-7aa1-4b4c-a247-3a0be6824937.png)
+![image](https://user-images.githubusercontent.com/101376775/222052401-8e3697ce-cca5-40c8-b3ea-cf5984c48103.png)
+
+
+
 
 
 
