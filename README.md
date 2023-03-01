@@ -129,6 +129,8 @@ because of that we have PRI written in key column.
 ![image](https://user-images.githubusercontent.com/101376775/221428940-bacde77f-8183-416c-8790-c9d0e10e21ca.png)
 
 ### UPDATE 3:14:32
+![image](https://user-images.githubusercontent.com/101376775/222038150-fc7f6842-1e42-4d4a-905d-73175633b349.png)
+### DELETE
 
 
 
