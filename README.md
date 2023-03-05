@@ -143,6 +143,9 @@ because of that we have PRI written in key column.
 ---
 ![image](https://user-images.githubusercontent.com/101376775/222052401-8e3697ce-cca5-40c8-b3ea-cf5984c48103.png)
 ---
+## String function exercise 
+![image](https://user-images.githubusercontent.com/101376775/222964327-599f4d0c-c7e2-4ef3-9012-8a79fff7d19d.png)
+![image](https://user-images.githubusercontent.com/101376775/222964426-9f16330f-842c-4ec4-9490-651259b75398.png)
 
 
 
