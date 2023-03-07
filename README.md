@@ -147,6 +147,9 @@ because of that we have PRI written in key column.
 ![image](https://user-images.githubusercontent.com/101376775/222964327-599f4d0c-c7e2-4ef3-9012-8a79fff7d19d.png)
 ![image](https://user-images.githubusercontent.com/101376775/222964426-9f16330f-842c-4ec4-9490-651259b75398.png)
 
+## Refining our selection exercise 
+![image](https://user-images.githubusercontent.com/101376775/223344997-b2d79479-c255-45f1-8404-0126c769f191.png)
+![image](https://user-images.githubusercontent.com/101376775/223345144-5dbf64a7-fd06-419a-9da1-3a1ae26104e7.png)
 
 
 
